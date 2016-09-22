@@ -1,4 +1,4 @@
-# Toll Brothers' JavaScript Styleguide
+# JavaScript Styleguide
 
 *A mostly reasonable approach to JavaScript*
 
