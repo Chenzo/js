@@ -1,5 +1,7 @@
 # JavaScript Styleguide
 
+[![Join the chat at https://gitter.im/chenzo-js/Lobby](https://badges.gitter.im/chenzo-js/Lobby.svg)](https://gitter.im/chenzo-js/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 *A mostly reasonable approach to JavaScript*
 
 
